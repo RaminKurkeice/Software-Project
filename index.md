@@ -17,7 +17,7 @@ DataBase connection function is created.
 #### Website Graph is created below.
 ----------------------------------
 Displays below a chart for a seven day graph, and shows data collected every 30 mins.
-http://apollo.humber.ca/~n01227056/MARSINC.html
+[Data Graph Website](http://apollo.humber.ca/~n01227056/MARSINC.html)
 
 ## App Data Display
 ----------------------
