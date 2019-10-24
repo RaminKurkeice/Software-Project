@@ -1,7 +1,9 @@
 ## Welcome to the Solar Panel Blog
 ------------------------------------
 Below will be a blog that will update periodically about the app development and how to access and use the new features added.
+
 ![MARSINCLogo1](/Images/MARS%20INC.png)
+
 This is also a help feature for users that are having problems navigating or finding information.
 
 Authors: Ramin Kurkeice, Ahmad El-hajj, Matthew Philip.
