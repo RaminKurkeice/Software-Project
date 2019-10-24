@@ -14,7 +14,7 @@ DataBase connection function is created.
 *note the function password for the uploaded application is not completed for the MySQL connection for privacy reasons.
 (If you desire the connection add your MySQL the databases code can easliy be edited to change servers to yours)
 
-### website Graph is created below.
+#### Website Graph is created below.
 ----------------------------------
 Displays below a chart for a seven day graph, and shows data collected every 30 mins.
 http://apollo.humber.ca/~n01227056/MARSINC.html
