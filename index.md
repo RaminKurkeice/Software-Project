@@ -11,7 +11,7 @@ Authors: Ramin Kurkeice, Ahmad El-hajj, Matthew Philip.
 ## DataBase and Website Graph
 --------------------------------
 DataBase connection function is created.   
-*note the function password for the uploaded application is not completed for the MySQL connection for privacy reasons.  
+*note the function password for the uploaded application is not completed for the MySQL connection for privacy reasons.*    
 (If you desire the connection add your MySQL the databases code can easliy be edited to change servers to yours)
 
 #### Website Graph is Created Below.
@@ -21,9 +21,9 @@ Displays below a chart for a seven day graph, and shows data collected every 30 
 
 #### How to Access Graph
 1. After opening app from the main page click the "More" button on the bottom right.  
-*This will open a page that shows future features.  
+*This will open a page that shows future features.*   
 2. Then proceed to click the "Graph" button at the bottom center of the page.  
-*This will open a webpage that displays all data from the week on a graph.  
+*This will open a webpage that displays all data from the week on a graph.*   
 
 ## App Data Display
 ----------------------
