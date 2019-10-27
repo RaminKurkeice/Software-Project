@@ -27,6 +27,8 @@ Displays below a chart for a seven day graph, and shows data collected every 30 
 
 ## App Data Display
 ----------------------
+Data Display layout has been completed.
+The layout will consist a Power reading, lux reading and the days average.
 
 
 ## App Functionality
