@@ -48,10 +48,10 @@ Date display created.
 Displays todays date.
 
 #### How to find Date, Time, and Weather Display
-1.After opening the app from the main page look at the top of the page.  
-2.Top left of the page displays the current time.  
-3.Top center of the page displays show the current weather.  
-4.Top right of the page diasplays show the current date.  
+1. After opening the app from the main page look at the top of the page.  
+2. Top left of the page displays the current time.  
+3. Top center of the page displays show the current weather.  
+4. Top right of the page diasplays show the current date.  
 *Note: If any or all of the above are not displaying the proper information, please check your internet connection*  
 
 
