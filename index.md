@@ -11,7 +11,7 @@ Authors: Ramin Kurkeice, Ahmad El-hajj, Matthew Philip.
 ## DataBase and Website Graph
 --------------------------------
 DataBase connection function is created.   
-*note the function password for the uploaded application is not completed for the MySQL connection for privacy reasons.*    
+*Note: The function password for the uploaded application is not completed for the MySQL connection for privacy reasons.*    
 (If you desire the connection add your MySQL the databases code can easliy be edited to change servers to yours)
 
 #### Website Graph is Created Below.
@@ -38,6 +38,22 @@ This displays the data collected in power and lux from the solar panels in realt
 
 ## App Functionality
 ----------------------
+Weather connection created.  
+Shows the current weather in the location of Humbers solar panels.  
+
+Time Display created.  
+Displays current time.  
+
+Date display created.  
+Displays todays date.
+
+#### How to find Date, Time, and Weather Display
+1.After opening the app from the main page look at the top of the page.  
+2.Top left of the page displays the current time.  
+3.Top center of the page displays show the current weather.  
+4.Top right of the page diasplays show the current date.  
+*Note: If any or all of the above are not displaying the proper information, please check your internet connection*  
+
 
 
 
