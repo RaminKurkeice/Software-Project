@@ -33,6 +33,10 @@ This displays the data collected in power and lux from the solar panels in realt
 #### How to Access Data Display
 1. After opening app from the main page click the "data" button on the bottom left.  
 *This will open a new page that shows the power and lux.*    
+2. The data display will contain a countdown timer that will tell the user when the next readings will show.
+*This will refresh the values of the power and lux.*
+3. The power and lux image buttons will take the user to their history activities.
+*This will show the history values of the day.*
 
 
 
