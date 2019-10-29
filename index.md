@@ -22,8 +22,27 @@ Displays below a chart for a seven day graph, and shows data collected every 30 
 #### How to Access Graph
 1. After opening app from the main page click the "More" button on the bottom right.  
 *This will open a page that shows future features.*   
-2. Then proceed to click the "Graph" button at the bottom center of the page.  
-*This will open a webpage that displays all data from the week on a graph.*   
+2. Then proceed to click the "Graph" button at the bottom left of the page.  
+*This will open a webpage that displays all data from the week on a graph.*    
+
+Weather network button created.  
+*This will help with better understanding where we pull our weather data from and check if any problems for troubleshooting.*  
+(A helpful feature to test if the lumosity sensor is accurate.)
+
+#### How to Access Weather Site
+1. After opening app from the main page click the "More" button on the bottom right.    
+*This will open a page that shows future features.*    
+2. Then proceed to click the "Weather" button at the bottom right of the page.  
+*This will open the weather networks webpage*  
+
+Lux chart created.
+*This is to help better understand what the lux reading means*
+
+#### Where to View Lux Chart
+1. After opening app from the main page click the "More" button on the bottom right.    
+*This will open a page that shows future features.*  
+2. The top of the page will display a lux chart for viewing.  
+*The chart shows for a wide range of lux that also is also defined by how much sunlight that reading means.*  
 
 ## App Data Display
 ----------------------
