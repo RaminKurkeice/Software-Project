@@ -36,5 +36,16 @@ public class Activity3 extends AppCompatActivity {
             }
 
         });
+
+        Button but2 = (Button)findViewById(R.id.butt2);
+        but2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i3=new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.theweathernetwork.com/ca/hourly-weather-forecast/ontario/toronto"));
+                startActivity(i3);
+            }
+        });
     }
+
 }
+
