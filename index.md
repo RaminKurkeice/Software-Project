@@ -27,11 +27,11 @@ Displays below a chart for a seven day graph, and shows data collected every 30 
 
 ## App Data Display
 ----------------------
-Data Display app is created. 
-Countdown timer is created.
-PowerHistory Activity is created.
-LuxHistory Activity is created.
-This displays the data collected in power and lux from the solar panels in realtime every 30mins.  
+Data Display app is created.  
+Countdown timer is created.  
+PowerHistory Activity is created.  
+LuxHistory Activity is created.  
+*This displays the data collected in power and lux from the solar panels in realtime every 30mins.*   
 
 #### How to Access Data Display
 1. After opening app from the main page click the "data" button on the bottom left.  
