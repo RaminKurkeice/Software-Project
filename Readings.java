@@ -68,7 +68,7 @@ public class Readings extends Fragment {
 
 
     try {
-        Connection conn = DriverManager.getConnection("jdbc:oracle:thin:@apollo.humber.ca:1521:msit","n01227056", "v0K5ibr@"); // connecting to apollo
+        Connection conn = DriverManager.getConnection("jdbc:oracle:thin:@apollo.humber.ca:1521:msit","n01227056", "v"); // connecting to apollo
         Statement stmt = conn.createStatement(); // connection statment if connects properly
         ResultSet rs = stmt.executeQuery("SELECT * FROM data");
         while (rs.next())
