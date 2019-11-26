@@ -52,7 +52,7 @@ public class History extends Fragment {
     public void datagraph () {
         Statement stmt = null;
         try {
-            Connection conn = DriverManager.getConnection("jdbc:oracle:thin:@apollo.humber.ca:1521:msit", "n01227056", "v0K5ibr@");
+            Connection conn = DriverManager.getConnection("jdbc:oracle:thin:@apollo.humber.ca:1521:msit", "n01227056", "v");
 
             String result = "Database Connection Successful\n";
             stmt = conn.createStatement();
