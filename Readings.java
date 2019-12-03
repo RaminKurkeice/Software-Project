@@ -123,6 +123,6 @@ public class Readings extends Fragment {
         outputStream.close();
     }
 
-
+//delete soon
 
     }
