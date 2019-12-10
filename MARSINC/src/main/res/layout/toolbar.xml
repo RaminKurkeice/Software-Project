@@ -4,10 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="#0F91FA"
+    android:background="@color/Toolbar"
     android:elevation="4dp"
-    android:text="Solar App"
-    android:layout_gravity="center"
+
     >
 
 </androidx.appcompat.widget.Toolbar>

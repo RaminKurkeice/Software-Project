@@ -107,8 +107,8 @@ public class Activity2 extends AppCompatActivity {
 
 
     public void openActivity(){
-        Intent intent = new Intent(this,PowerHistory.class);
-        startActivity(intent);
+     //   Intent intent = new Intent(this,PowerHistory.class);
+       // startActivity(intent);
     }
 
     public boolean onCreateOptionsMenu(Menu menu){
